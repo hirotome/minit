@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /usr/sbin/dhcpcd -q -w >/dev/null 2>&1
